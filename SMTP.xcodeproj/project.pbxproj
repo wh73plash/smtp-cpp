@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		9CC977792844025800FC4BDC /* SMTP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SMTP; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CC9777C2844025800FC4BDC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		9CC97783284402D100FC4BDC /* smtp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = smtp.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				9CC9777C2844025800FC4BDC /* main.cpp */,
+				9CC97783284402D100FC4BDC /* smtp.h */,
 			);
 			path = SMTP;
 			sourceTree = "<group>";

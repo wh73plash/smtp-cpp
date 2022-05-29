@@ -5,10 +5,9 @@
 //  Created by 김제인 on 2022/05/30.
 //
 
-#include <iostream>
+#include "smtp.h"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+int32_t main(const int argc, const char** argv, const char** env) {
+    
+    return EXIT_SUCCESS;
 }
